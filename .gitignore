@@ -159,11 +159,6 @@ tramp
 .\#*
 
 ## https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-.vscode/*
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -208,3 +203,6 @@ metricsdiff.txt
 
 # analysis
 annotated/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
